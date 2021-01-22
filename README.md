@@ -1,1 +1,1 @@
-# Coursera: Shakespeare with LSTM
+# Coursera: Image Classification
